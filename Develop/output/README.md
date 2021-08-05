@@ -1,28 +1,28 @@
-# test readme Generator
+# Note Taker
  
 ### Description ###
-Readme generator that helps in readme generation
+This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ### Table of Contents
-Readme generator that helps in readme generation
+This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ### Installation ###
 
-npm i 
+npm i , then npm start
 
 ## usage ##
 
-use it when you register
+On browser go localhost:8080, click on getting started, then click on plus sign on your top right, add the Note Title and Note Text then save. If you want to delete, click on the delete icon adjust to the notes added.
 
 ## License ##
 
-6 Months Try
+Free version
 
 ## Test Instructions
  
-npm run tests
+The only test is for the server
 
 ## Github ##
 gihts024
-gihts@gihts.com
+info@gihts.com
 

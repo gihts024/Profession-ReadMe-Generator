@@ -47,7 +47,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ### Table of Contents
-${data.description}
+${data.contents}
 
 ### Installation ###
 
