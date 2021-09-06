@@ -1,18 +1,18 @@
-# Note Taker
+# ORM
  
 ### Description ###
-This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This is a backend e-commerce Mysql database that is configured to work with Express.js API and uses Sequelize to interact with MySQL database. Using insomnia, the delete, add, update and post transactions are demonstrated
 
 ### Table of Contents
-This is an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+undefined
 
 ### Installation ###
 
-npm i , then npm start
+npm i create a dot env file with the db name, user and password, run npm seed, run node server.js, start insomia and view the transactions.
 
 ## usage ##
 
-On browser go localhost:8080, click on getting started, then click on plus sign on your top right, add the Note Title and Note Text then save. If you want to delete, click on the delete icon adjust to the notes added.
+categories, products and tags, do POST, DELETE, UPDATE AND GET
 
 ## License ##
 
@@ -20,9 +20,9 @@ Free version
 
 ## Test Instructions
  
-The only test is for the server
+none
 
 ## Github ##
-gihts024
 info@gihts.com
+infor@gihts.com
 
