@@ -66,8 +66,8 @@ ${data.license}
 ${data.tests}
 
 ## Github ##
-${data.username}
-${data.email}
+[Github Link](https://github.com/${data.username})
+for more information, contact me at ${data.email}
 
 `;
 
