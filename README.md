@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Professional Readme generator
  
 ### Description ###
@@ -59,5 +59,5 @@ none
 ## Github ##
 info@gihts.com
 infor@gihts.com
->>>>>>> 27d58b15b7fc717b9b805f462f09dd02dc7700dc
+
 
